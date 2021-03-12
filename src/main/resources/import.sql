@@ -1,0 +1,2 @@
+insert into product (id, name, description, price) values (1, 'IPhone 12', 'Celular de última geração', 5.50);
+insert into product (id, name, description, price) values (2, 'MacBook','O MacBook Air de 13 polegadas vem com memória de 8GB', 10);
