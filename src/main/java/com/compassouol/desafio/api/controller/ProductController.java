@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.compassouol.desafio.domain.ProductService;
 import com.compassouol.desafio.domain.dto.ProductDTO;
+import com.compassouol.desafio.domain.service.ProductService;
 
 @RestController
 @RequestMapping("/products")

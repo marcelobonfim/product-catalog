@@ -1,4 +1,4 @@
-package com.compassouol.desafio.domain;
+package com.compassouol.desafio.domain.service;
 
 import java.math.BigDecimal;
 import java.util.List;
